@@ -31,3 +31,11 @@ elif num<0:
     print("negative number ") 
 else:
     print("zero")"""
+
+
+# license 
+"""age=int(input("enter your age:"))
+if age >= 18:
+    print("you are read to get your license")
+else:
+    print("first grow up bro, then you will get a license")"""
